@@ -93,7 +93,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "MSR 2023" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
@@ -123,16 +123,35 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+- title: Important Dates
+  url: /important-dates/
+- title: CFP
+  url: /cfp/
+- title: Registration
+  url: /registration/
+- title: Venue 
+  url: /venue/
+- title: Program 
+  url: /program/ 
+- title: Special Talk
+  url: /special-talk/ 
+- title: MSR Global Summit
+  url: /msr-global/ 
+- title: Organization
+  url: /organization/ 
+- title: Sponsors
+  url: /sponsors/ 
+- title: Past
+  url: /past/ 
+# - title: 
+#   url: // 
+# - title: Blog
+#   url: /blog/
+# - title: Categories
+#   url: /categories/
+# - title: Search
+#   url: /search/
+
 
 navigation_footer:
 - title: Created by David Darnes

@@ -1,12 +1,16 @@
 ---
-title: Elements
+title: Important Dates
 feature_text: |
-  A demo of Markdown and HTML includes
+  ## MSR 2023
+  20th International Conference on Mining Software Repositories
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
-aside: true
+#aside: true
 ---
 
+{% include table-date.html %}
+
+<!-- 
 # Heading 1
 
 ## Heading 2
@@ -141,4 +145,4 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
 
 {% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
-```
+``` -->
