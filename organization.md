@@ -1,27 +1,30 @@
 ---
 title: Organization
 feature_text: |
-  ## MSR 2023
-  20th International Conference on Mining Software Repositories
+  ## MSR Asia Summit 2023
+  The Japan Summer School in Mining Software Repositories
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
 ---
-### General Co-Chairs
-* Keisuke Hotta (FUJITSU LABORATORIES LTD.)
-* Takao Nakagawa (FUJITSU LABORATORIES LTD.)
-* Kazuhiro Yamashita (FUJITSU LABORATORIES LTD.)
-### PC Co-Chairs
-* Akinori Ihara (Wakayama University)
-* Marco Aurélio Gerosa (Northern Arizona University)
-### Publication Co-Chairs
-* Masanari Kondo (Kyoto Institute of Technology)
-* Dong Wang (Nara Institute of Science and Technology)
-### Registration Co-Chairs
+### General Co-chairs
+- Yutaro Kashiwa (Nara Institute of Science and Technology)
+- Masanari Kondo (Kyushu University)
+
+### Financial Chair
+- Erina Makihara (Doshisha University)
+
+### Program Chair
+- Dong Wang (Kyushu University)
 
 ### Web Chair
+- Khine Yin Mon (Kyoto Institute of Technology)
 
-### Local Arrangement Co-Chairs
+### Local Arrangement Chair
+- Yuta Ishimoto (Kyushu University)
 
-### Steering Committee Members
+### Student Volunteer Chair
+- Olivier Nourry (Kyushu University)
 
-### Program Committee Members
+### Steering Committee 
+- Yasutaka Kamei (Kyushu University)
+- Akinori Ihara (Wakayama University)

@@ -93,8 +93,8 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "MSR 2023" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+title: "MSR Asia Summit 2023" # Site name or title, also used in jekyll-seo-tag
+logo: "MSR Asia Summit 2023" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -123,34 +123,21 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Important Dates
-  url: /important-dates/
-- title: Posters
-  url: /posters/
-- title: Registration
-  url: /registration/
-- title: Venue 
-  url: /venue/
 - title: Program 
   url: /program/ 
-- title: Special Talk
-  url: /special-talk/ 
-- title: MSR Global Summit
-  url: /msr-global/ 
+# - title: Important Dates
+#   url: /important-dates/
+- title: Speakers
+  url: /speakers/
+- title: Registration
+  url: /registration/
 - title: Organization
-  url: /organization/ 
-- title: Sponsors
-  url: /sponsors/ 
-- title: Past
-  url: /past/ 
-# - title: 
-#   url: // 
-# - title: Blog
-#   url: /blog/
-# - title: Categories
-#   url: /categories/
-# - title: Search
-#   url: /search/
+  url: /organizers/
+- title: Venue 
+  url: /venue/
+- title: Previous Years 
+  url: /previous-years/
+
 
 
 navigation_footer:

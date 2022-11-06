@@ -1,5 +1,5 @@
 ---
-title: Posters
+title: Speakers
 feature_text: |
   ## MSR Asia Summit 2023
   The Japan Summer School in Mining Software Repositories
@@ -8,8 +8,8 @@ excerpt: "A demo of Markdown and HTML includes"
 #aside: true
 ---
 
-1. Authors, "Title"
-2. Authors, "Title"
-3. Authors, "Title"
-4. Authors, "Title"
-5. Authors, "Title"
+1. Photo, "About Speaker"
+2. Photo, "About Speaker"
+3. Photo, "About Speaker"
+4. Photo, "About Speaker"
+5. Photo, "About Speaker"
