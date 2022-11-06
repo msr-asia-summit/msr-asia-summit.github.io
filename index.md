@@ -1,15 +1,52 @@
 ---
-title: MSR 2023
+title: 
 feature_text: |
-  ## MSR 2023
-  20th International Conference on Mining Software Repositories
+  ## MSR Asia Summit 2023
+  The Japan Summer School in Mining Software Repositories
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
+Welcome to the website of the Mining Software Repositories Aisa Summit 2023!
+## Speakers
+<!-- CHANGE: to change speakers -->
 
-Welcome to the website of the Mining Software Repositories 2023 conference!
+{% include figure-circle.html image="assets/temporary-human-icon.jpeg" caption="Temporary" width="150" height="400" %}
 
-The Mining Software Repositories (MSR) conference is the premier conference for data science, machine learning, and artificial intelligence in software engineering. The goal of the conference is to improve software engineering practices by uncovering interesting and actionable information about software systems and projects using the vast amounts of software data such as source control systems, defect tracking systems, code review repositories, archived communications between project personnel, question-and-answer sites, CI build servers, and run-time telemetry. Mining this information can help to understand software development and evolution, software users, and runtime behavior; support the maintenance of software systems; improve software design/reuse; empirically validate novel ideas and techniques; support predictions about software development; and exploit this knowledge in planning future development.
+
+## Call For Participants
+
+Over the past decade, the Mining Software Repositories (MSR) community has grown at a tremendous rate.  It has gained popularity since 2004 with the first instance of the MSR workshop and continues to be one of the fastest growing fields in the area of software engineering.
+
+MSR community held Mining Summer School 2010 that provided students with opportunities to learn the background needed to excel in this emerging and important field.
+
+Furthermore, MSR community has been given a unique opportunity to bring some of the world’s leading and upcoming researchers, and talented graduated students to discuss the near future of MSR.
+
+MSR community held Mining Summer School MSR Vision 2020 that discussed about MSR’s future.
+
+Nowadays, Japanese researchers are interested in MSR field. We decided to hold MSR Vision Japan, which is inspired by MSR Vision 2020. MSR Asia Summit encourages the exchange of ideas within the international community from MSR viewpoint with the expectation of furthering the more generic field of software engineering.
+
+The key goals of MSR Asia Summit are to:
+
+* Prepare the near future research of MSR.
+* Provide a training venue for key MSR techniques and results.
+* Provide a networking platform for new researchers, students, and leading researchers in the area.
+* Provide a Dagstuhl-like setting for free-form focused discussions on MSR topics and its near future.
+
+## Program Schedule
+<!-- CHANGE: to change venue -->
+MSR Asia Summit will be held on October 28 at A VENUE in Hokkaido, Japan. This one-day event will consist of:
+
+* Plenary sessions by some of the top researchers in the field.
+* Discussion sessions on near future research that participants want to discuss.
+
+<!-- {% include table-program.html %} -->
+
+## Organizers
+
+{% include organizers.html %}
+
+
+
 
 <!-- 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}

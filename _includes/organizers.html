@@ -1,0 +1,57 @@
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column1 {
+  float: left;
+  width: 30%;
+  padding: 5px;
+}
+.column2 {
+  float: left;
+  width: 70%;
+  padding: 5px;
+  text-align: justify;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  padding-bottom: 10%;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+
+<div class="row">
+  <div class="column1">
+    <img src="assets/yasuta-kamei.jpeg" alt="Snow" style="width:100%; border-radius: 50%;">
+  </div>
+  <div class="column2">
+    Yasutaka Kamei is an assistant professor at Kyushu University in Japan. He has been a research fellow of the JSPS (PD) from July 2009 to March 2010. From April 2010 to March 2011, he was a postdoctoral fellow at Queen’s University in Canada. His research interests include empirical software engineering, open source software engineering and mining software repositories (MSR). His work has been published at premier venues like ICSE, FSE, ESEM, MSR and ICSM, as well as in major journals like TSE, EMSE and IST. He received the B.E. degree (2005) in Informatics from Kansai University, and the M.E. degree (2007) and Ph.D. degree (2009) in Information Science from Nara Institute of Science and Technology.
+  </div>
+</div>
+
+<div class="row">
+    <div class="column1">
+      <img src="assets/Ihara.jpeg" alt="Snow" style="width:100%; border-radius: 50%;">
+    </div>
+    <div class="column2">
+        Akinori Ihara is an assistant professor at Nara Institute of Science and Technoogy (NAIST) in Japan. His research interests include empirical software engineering, open source software engineering, social software engineering and mining software repositories (MSR). He received the M.E. degree (2007) and Ph.D.degree (2009) in NAIST.
+    </div>
+  </div>
+</body>
+</html>

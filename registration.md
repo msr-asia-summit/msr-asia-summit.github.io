@@ -1,24 +1,32 @@
 ---
 title: Registration
 feature_text: |
-  ## MSR 2023
-  20th International Conference on Mining Software Repositories
+  ## MSR Asia Summit 2023
+  The Japan Summer School in Mining Software Repositories
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
 #aside: true
 ---
 
-All participants are kindly requested to fill out the registration form and submit it by December 4, 2019 (AOE).​The registration has been closed. Thank you for your registration.
+The registration fee must be paid to participate MSR Asia Summit. Registration fee for MSR Asia Summit is quoted in Japanese Yen (JPY). Each registration includes lunch and coffee break (NOT include dinner).
+The early registration fee applies for all registrations received before or on September 30th, 2022.
 
-The registration fee will be collected on-site. Only cash payments (no credit cards) in Japanese yen (JPY) can be acceptable.​
+The final deadline is on October 6th, 2022.
 
-* SIGSE Member: JPY 0
-    * SIGSE is a Japanese community in the research field of software engineering.
-* Non-Member: JPY 1,000
-This conference does not include lunch, but we plan to hold dinner in December 13th. Please check off the box in the form if you want to attend it.
+The registration fee will be collected on-site. Only cash payments (no credit cards) can be acceptable.
 
-​
-If you need visa for Japan and its application documents for your local Japanese embassy or consulate, please check off the box in the form. We will contact you to send the documents. Visa Information
+{% include table-registration.html %}
 
-For questions about the registration, please contact hatano.tomomi[at]fujitsu.com .
+##### Cancellation Policies
 
+Conference registrants canceling their registration on or before Octover 6, 2022 will not be charged the conference fee. Then, please send an email to ‘akinori-i [at] is.naist.jp’ as soon as possible. Otherwise, you will be charged the conference fee.
+
+## Dinner Party
+
+We make a schedule for a dinner party near the venue. If you are interested, please join us.
+
+Start: 18:30
+
+Place: TBD
+
+Fee: Approximately 4,000yen
