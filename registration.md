@@ -17,6 +17,7 @@ The registration fee will be collected on-site. Only cash payments (no credit ca
 
 {% include table-registration.html %}
 
+
 ##### Cancellation Policies
 
 Conference registrants canceling their registration on or before Octover 6, 2022 will not be charged the conference fee. Then, please send an email to ‘akinori-i [at] is.naist.jp’ as soon as possible. Otherwise, you will be charged the conference fee.
