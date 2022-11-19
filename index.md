@@ -15,7 +15,20 @@ Welcome to the website of the Mining Software Repositories Aisa Summit 2023!
 
 ## Call For Participants
 
-TBD
+The Mining Software Repositories (MSR) community has drastically grown over the past decade. The first MSR workshop was held in 2004 and is now one of the largest communities in software engineering research. 
+
+While many self-motivated and talented young researchers attend this community, we do not have many opportunities to discuss our research projects, start a new collaborative project, and make new communities. 
+
+Therefore, we decided to revive MSR Asian Summit again! Dr. Yasutaka Kamei and Dr. Akinori Ihara originally organized this summit. We, however, change the organizer into a new generation and create a new opportunity for young MSR researchers. 
+
+The key goal of MSR Asian Summit are to:
+
+- Discuss your research project with other young reserachers
+- Find opportunities of a new collaboration research
+- Create a new network for new reserachers
+
+
+
 
 ## Program Schedule
 <!-- CHANGE: to change venue -->
