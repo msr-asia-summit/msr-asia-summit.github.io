@@ -15,29 +15,11 @@ Welcome to the website of the Mining Software Repositories Aisa Summit 2023!
 
 ## Call For Participants
 
-Over the past decade, the Mining Software Repositories (MSR) community has grown at a tremendous rate.  It has gained popularity since 2004 with the first instance of the MSR workshop and continues to be one of the fastest growing fields in the area of software engineering.
-
-MSR community held Mining Summer School 2010 that provided students with opportunities to learn the background needed to excel in this emerging and important field.
-
-Furthermore, MSR community has been given a unique opportunity to bring some of the world’s leading and upcoming researchers, and talented graduated students to discuss the near future of MSR.
-
-MSR community held Mining Summer School MSR Vision 2020 that discussed about MSR’s future.
-
-Nowadays, Japanese researchers are interested in MSR field. We decided to hold MSR Vision Japan, which is inspired by MSR Vision 2020. MSR Asia Summit encourages the exchange of ideas within the international community from MSR viewpoint with the expectation of furthering the more generic field of software engineering.
-
-The key goals of MSR Asia Summit are to:
-
-* Prepare the near future research of MSR.
-* Provide a training venue for key MSR techniques and results.
-* Provide a networking platform for new researchers, students, and leading researchers in the area.
-* Provide a Dagstuhl-like setting for free-form focused discussions on MSR topics and its near future.
+TBD
 
 ## Program Schedule
 <!-- CHANGE: to change venue -->
-MSR Asia Summit will be held on October 28 at A VENUE in Hokkaido, Japan. This one-day event will consist of:
-
-* Plenary sessions by some of the top researchers in the field.
-* Discussion sessions on near future research that participants want to discuss.
+TBD
 
 <!-- {% include table-program.html %} -->
 
