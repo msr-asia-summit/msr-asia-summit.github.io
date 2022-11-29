@@ -3,14 +3,14 @@ title:
 feature_text: |
   ## MSR Asia Summit 2023
   The Japan Summer School in Mining Software Repositories
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "assets/img.png"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
-Welcome to the website of the Mining Software Repositories Aisa Summit 2023!
+Welcome to the website of the Mining Software Repositories Asia Summit 2023!
 ## Speakers
 <!-- CHANGE: to change speakers -->
 
-{% include figure-circle.html image="assets/temporary-human-icon.jpeg" caption="Temporary" width="150" height="400" %}
+{% include figure-circle.html image="assets/temporary-human-icon.jpeg" caption="To Appear" width="150" height="400" %}
 
 
 ## Call For Participants
@@ -21,20 +21,23 @@ While many self-motivated and talented young researchers attend this community, 
 
 Therefore, we decided to revive MSR Asian Summit again! Dr. Yasutaka Kamei and Dr. Akinori Ihara originally organized this summit. We, however, change the organizer into a new generation and create a new opportunity for young MSR researchers. 
 
-The key goal of MSR Asian Summit are to:
+The key goals of MSR Asia Summit are to:
 
-- Discuss your research project with other young reserachers
+- Discuss your research project with other young researchers
 - Find opportunities of a new collaboration research
-- Create a new network for new reserachers
+- Create a new network for new researchers
 
 
 
 
-## Program Schedule
-<!-- CHANGE: to change venue -->
-TBD
+[//]: # (## Program Schedule)
 
-<!-- {% include table-program.html %} -->
+[//]: # (<!-- CHANGE: to change venue -->)
+
+[//]: # (TBD)
+
+[//]: # ()
+[//]: # (<!-- {% include table-program.html %} -->)
 
 ## Organizers
 
