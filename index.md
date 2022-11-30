@@ -3,8 +3,8 @@ title:
 feature_text: |
   ## MSR Asia Summit 2023
   The Japan Summer School in Mining Software Repositories
-feature_image: "assets/img.png"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  feature_image: "assets/img.png"
+
 ---
 Welcome to the website of the Mining Software Repositories Asia Summit 2023!
 ## Speakers
