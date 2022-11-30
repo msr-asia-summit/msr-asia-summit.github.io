@@ -3,7 +3,8 @@ title:
 feature_text: |
   ## MSR Asia Summit 2023
   The Japan Summer School in Mining Software Repositories
-feature_image: "/assets/wallpic.jpeg"
+feature_image: "https://picsum.photos/2560/600?image=873"
+# feature_image: "/assets/wallpic.jpeg"
 ---
 Welcome to the website of the Mining Software Repositories Aisa Summit 2023!
 ## Speakers
