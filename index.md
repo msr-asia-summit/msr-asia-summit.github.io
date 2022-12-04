@@ -28,16 +28,13 @@ The key goals of MSR Asia Summit are to:
 - Create a new network for new researchers
 
 
+## Program Schedule
 
+<!-- CHANGE: to change venue -->
 
-[//]: # (## Program Schedule)
+TBD
 
-[//]: # (<!-- CHANGE: to change venue -->)
-
-[//]: # (TBD)
-
-[//]: # ()
-[//]: # (<!-- {% include table-program.html %} -->)
+<!-- ({% include table-program.html %}) -->
 
 ## Organizers
 
