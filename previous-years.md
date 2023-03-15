@@ -1,9 +1,8 @@
 ---
 title: Previous Years
 feature_text: |
-  ## MSR Asia Summit 2023
-  The Japan Summer School in Mining Software Repositories
-feature_image: "https://picsum.photos/2560/600?image=873"
+  
+feature_image: "/assets/sapporo2.jpeg"
 ---
 [MSR Asia Summit 2017, Tokyo, Japan. (March 11, 2017)](http://msrsummit2017.se-naist.jp "MSR Asia Summit 2017, Tokyo, Japan. (March 11, 2017)")
 

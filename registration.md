@@ -1,9 +1,8 @@
 ---
 title: Registration
 feature_text: |
-  ## MSR Asia Summit 2023
-  The Japan Summer School in Mining Software Repositories
-feature_image: "https://picsum.photos/2560/600?image=873"
+  
+feature_image: "/assets/sapporo2.jpeg"
 excerpt: "A demo of Markdown and HTML includes"
 #aside: true
 ---
