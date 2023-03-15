@@ -1,7 +1,7 @@
 ---
 title: Venue
 feature_text: |
-feature_image: "/assets/sapporo2.jpeg"
+feature_image: "/assets/wallpic.jpeg"
 excerpt: "A demo of Markdown and HTML includes"
 ---
 

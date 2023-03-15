@@ -2,7 +2,7 @@
 title: Previous Years
 feature_text: |
   
-feature_image: "/assets/sapporo2.jpeg"
+feature_image: "/assets/wallpic.jpeg"
 ---
 [MSR Asia Summit 2017, Tokyo, Japan. (March 11, 2017)](http://msrsummit2017.se-naist.jp "MSR Asia Summit 2017, Tokyo, Japan. (March 11, 2017)")
 

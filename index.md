@@ -2,7 +2,7 @@
 title: 
 feature_text: |
  
-feature_image: "assets/sapporo2.jpeg"
+feature_image: "assets/wallpic.jpeg"
 
 ---
 Welcome to the website of the Mining Software Repositories Asia Summit 2023!
