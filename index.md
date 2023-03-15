@@ -3,14 +3,14 @@ title:
 feature_text: |
   ## MSR Asia Summit 2023
   The Japan Summer School in Mining Software Repositories
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  feature_image: "assets/img.png"
+
 ---
-Welcome to the website of the Mining Software Repositories Aisa Summit 2023!
+Welcome to the website of the Mining Software Repositories Asia Summit 2023!
 ## Speakers
 <!-- CHANGE: to change speakers -->
 
-{% include figure-circle.html image="assets/temporary-human-icon.jpeg" caption="Temporary" width="150" height="400" %}
+{% include figure-circle.html image="assets/temporary-human-icon.jpeg" caption="To Appear" width="150" height="400" %}
 
 
 ## Call For Participants
@@ -21,17 +21,17 @@ While many self-motivated and talented young researchers attend this community, 
 
 Therefore, we decided to revive MSR Asian Summit again! Dr. Yasutaka Kamei and Dr. Akinori Ihara originally organized this summit. We, however, change the organizer into a new generation and create a new opportunity for young MSR researchers. 
 
-The key goal of MSR Asian Summit are to:
+The key goals of MSR Asia Summit are to:
 
-- Discuss your research project with other young reserachers
+- Discuss your research project with other young researchers
 - Find opportunities of a new collaboration research
-- Create a new network for new reserachers
-
-
+- Create a new network for new researchers
 
 
 ## Program Schedule
+
 <!-- CHANGE: to change venue -->
+
 We have two phases in this summit. The first phase consists of the keynote speech and the poster session by master students. The second phase consists of the doctor session and Researchathon. Yeah, Researcharthon is our original project, in which we make some groups and intend to study one research topic from the survey to the first result. Are you interested in this project? Please check our registration page! 
 
 The first phase will be held in Hokkaido Jichiro Kaikan (on July 23). The second phase will be held in Jozankei View Hotel (July 24-26). The details can be found on the venue page. 
