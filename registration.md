@@ -9,8 +9,14 @@ excerpt: "A demo of Markdown and HTML includes"
 
 Important: Every participant can attend the first phase. However, the main aim of the second phase is for young researchers/students to make a new network and encourage them to start a new collaborative research project. Hence, we will ask for some requirements. 
 
-Details: TBD
+Requirements for the second phase: 
+- Ph.D. students or researchers who have obtained a Ph.D. within 10 years
+- Main research area is MSR
 
+
+Registration fee
+- The first phase: 0 JPY
+- The second phase: TBD
 
 ##### Cancellation Policies
 
