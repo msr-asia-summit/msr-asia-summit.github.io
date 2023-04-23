@@ -17,7 +17,3 @@ Requirements for the second phase:
 Registration fee
 - The first phase: 0 JPY
 - The second phase: TBD
-
-##### Cancellation Policies
-
-TBD
