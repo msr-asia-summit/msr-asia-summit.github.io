@@ -11,11 +11,15 @@ excerpt: "A demo of Markdown and HTML includes"
 
 {% include table-program.html %}
 
-## First stage
+## First stage@Hokkaido Jichiro Kaikan
 
-The room will be open from 9:00.
+- The room will be open from 9:00.
+- July 23
 
 {% include table-program-first-stage.html %}
 
-## Second stage
+## Second stage@Jozankei View Hotel
+
+- dates: July 24-26
+
 TBD
