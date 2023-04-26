@@ -13,6 +13,8 @@ excerpt: "A demo of Markdown and HTML includes"
 
 ## First stage
 
+The room will be open from 9:00.
+
 {% include table-program-first-stage.html %}
 
 ## Second stage
