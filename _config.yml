@@ -76,7 +76,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "assets/wallpic.jpeg" # Default image for sharing
+      image: "assets/wallpic.jpeg" #  image for sharing
   -
     scope:
       path: ""
