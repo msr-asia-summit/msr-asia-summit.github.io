@@ -2,7 +2,7 @@
 title: Program Schedule
 feature_text: |
 feature_image: "/assets/wallpic.jpeg"
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: "MSR Asia Summit 2023 Program"
 
 ---
 <!-- <small>Talk 20 mins, QA 5 mins.</small> -->
