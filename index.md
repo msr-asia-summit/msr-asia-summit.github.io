@@ -15,28 +15,13 @@ Welcome to the website of the Mining Software Repositories Asia Summit 2023!
 
 ## Call For Participants
 
-The Mining Software Repositories (MSR) community has drastically grown over the past decade. The first MSR workshop was held in 2004 and is now one of the largest communities in software engineering research. 
+{% include call_for_participants.html  %}
 
-While many self-motivated and talented young researchers attend this community, we do not have many opportunities to discuss our research projects, start a new collaborative project, and make new communities. 
-
-Therefore, we decided to revive MSR Asian Summit again! Dr. Yasutaka Kamei and Dr. Akinori Ihara originally organized this summit. We, however, change the organizer into a new generation and create a new opportunity for young MSR researchers. 
-
-The key goals of MSR Asia Summit are to:
-
-- Discuss your research project with other young researchers
-- Find opportunities of a new collaboration research
-- Create a new network for new researchers
 
 
 ## Program Schedule
 
-<!-- CHANGE: to change venue -->
-
-We have two phases in this summit. The first phase consists of the keynote speech and the poster session by master students. The second phase consists of the doctor session and Researchathon. Yeah, Researcharthon is our original project, in which we make some groups and intend to study one research topic from the survey to the first result. Are you interested in this project? Please check our registration page! 
-
-The first phase will be held in Hokkaido Jichiro Kaikan (on July 23). The second phase will be held in Jozankei View Hotel (July 24-26). The details can be found on the venue page. 
-
-<!-- ({% include table-program.html %}) -->
+{% include program_schedule.html  %}
 
 ## Organizers
 
