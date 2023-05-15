@@ -1,57 +1,68 @@
-<html>
-<head>
 <style>
-* {
-  box-sizing: border-box;
-}
-
-.column1 {
-  float: left;
-  width: 30%;
-  padding: 5px;
-}
-.column2 {
-  float: left;
-  width: 70%;
-  padding: 5px;
-  text-align: justify;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-  padding-bottom: 10%;
-}
-
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 500px) {
-  .column {
-    width: 100%;
+  * {
+    box-sizing: border-box;
   }
-}
-</style>
-</head>
-<body>
-
-
-<div class="row">
-  <div class="column1">
-    <img src="assets/kashiwa.jpg" alt="Snow" style="width:100%; border-radius: 50%;">
-  </div>
-  <div class="column2">
-    Yutaro Kashiwa is an assistant professor at Nara Institute of Science and Technology (NAIST), Japan. He worked for Hitachi Ltd. as a full-time software engineer for two years before spending three years as a research fellow of the Japan Society for the Promotion of Science. He received his Ph.D. degree in engineering from Wakayama University in 2020. His research interests include empirical software engineering, specifically the analysis of software bugs, testing, refactoring, and release.
-  </div>
-</div>
-
-<div class="row">
+  
+  .column1 {
+    float: left;
+    width: 30%;
+    padding: 10px;
+  }
+  .column2 {
+    float: right;
+    width: 70%;
+    padding: 10px;
+    text-align: justify;
+  }
+  
+  .img1 {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    margin: 10px;
+    border: 1px solid gray;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+    padding-bottom: 10%;
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other */
+  @media screen and (max-width: 768px) {
+    .column1, .column2 {
+      float: none;
+      width: 100%;
+    }
+  }
+  
+  /* Responsive layout - adjusts margin for smaller screens */
+  @media screen and (max-width: 576px) {
+    .column1, .column2 {
+      margin: 0;
+      padding: 5%;
+    }
+  }
+  </style>
+  
+  <div class="row">
     <div class="column1">
-      <img src="assets/Kondo.jpg" alt="Snow" style="width:100%; border-radius: 50%;">
+      <img class = "img1" src="assets/kashiwa.jpg">
     </div>
     <div class="column2">
-      Masanari Kondo currently works as an assistant professor in the Principles of Software engineering and programming Languages Lab. (POSL) at Kyushu University, Kyushu, Japan. He was a Ph.D. student in the Software Engineering Laboratory (SEL) at the Kyoto Institute of Technology, Kyoto, Japan. He was also a Young Scientist of JSPS Research Fellowships (DC1) (2019.4-2021.3) and a visiting researcher in the Software Analysis & Intelligence Lab (SAIL) at Queen’s University, Kingston, Canada (2018.3-2019.3). His research interests include supporting software developers by providing tools and methods for software quality assurance activities based on software repository mining, machine learning, and statistical analysis techniques. He received his BSc, MSc, and Ph.D. degrees from the Kyoto Institute of Technology (2017, 2019, and 2021). More about Masanari can be read on his website: https://mkmknd.github.io/ 
+      Yutaro Kashiwa is an assistant professor at Nara Institute of Science and Technology (NAIST), Japan. He worked for Hitachi Ltd. as a full-time software engineer for two years before spending three years as a research fellow of the Japan Society for the Promotion of Science. He received his Ph.D. degree in engineering from Wakayama University in 2020. His research interests include empirical software engineering, specifically the analysis of software bugs, testing, refactoring, and release.
     </div>
   </div>
-</body>
-</html>
+  
+  <div class="row">
+    <div class="column1">
+      <img class = "img1" src="assets/Kondo.jpg">
+    </div>
+    <div class="column2">
+      Masanari Kondo currently works as an assistant professor in the Principles of Software engineering and programming Languages Lab. (POSL) at Kyushu University, Kyushu, Japan. He was a Ph.D. student in the Software Engineering Laboratory (SEL) at the Kyoto Institute of Technology, Kyoto, Japan. He was also a Young Scientist of JSPS Research Fellowships (DC1) (2019.4-2021.3) and a visiting researcher in the Software Analysis & Intelligence Lab (SAIL) at Queen’s University, Kingston, Canada (2018.3-2019.3). His research interests include supporting software developers by providing tools and methods for software quality assurance activities based on software repository mining, machine learning, and statistical analysis techniques. He received his BSc, MSc, and Ph.D. degrees from the Kyoto Institute of Technology (2017, 2019, and 2021). More about Masanari can be read on his website: https://mkmknd.github.io/.
+    </div>
+  </div>
+  

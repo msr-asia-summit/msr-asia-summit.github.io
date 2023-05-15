@@ -1,112 +1,95 @@
-<html>
-<head>
 <style>
-* {
-  box-sizing: border-box;
+  .container {
+   display: flex;
+   justify-content: center;
+ }
+ 
+ div {
+   text-align: center;
+ }
+ 
+ img {
+   width: 200px;
+   height: 200px;
+   margin: 10px;
+   border: 1px solid gray;
+ }
+ 
+ p {
+   margin: 0;
+ }
+ a.blue-link {
+   color: blue;
+ }
+.image-border {
+  border: 1px solid gray;
 }
-
-.column1 {
-  float: left;
-  width: 30%;
-  padding: 5px;
-}
-.column2 {
-  float: left;
-  width: 70%;
-  padding: 5px;
-  text-align: justify;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-  padding-bottom: 10%;
-}
-
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 500px) {
-  .column {
-    width: 100%;
-  }
-}
-</style>
-</head>
-<body>
-
+ </style>
+ 
 <h3>General Co-chairs</h3>
-<div class="row">
-  <div class="column1">
-    <img src="/assets/kashiwa.jpg" alt="Snow" style="height: 100px;width:100px;border-radius: 50%;">
+<div class="container">
+  <div>
+    <img src="/assets/kashiwa.jpg" alt="Kashiwa">
+    <p>Yutaro Kashiwa <br>(Nara Institute of Science and Technology)</p>
   </div>
-  <div class="column2">Yutaro Kashiwa (Nara Institute of Science and Technology)</div>
-</div>
-
-<div class="row">
-    <div class="column1">
-      <img src="/assets/Kondo.jpg" alt="Snow" style="height: 100px;width:100px;border-radius: 50%;">
-    </div>
-    <div class="column2">Masanari Kondo (Kyushu University)</div>
+  <div>
+    <img src="/assets/Kondo.jpg" alt="Kondo">
+    <p>Masanari Kondo <br> (Kyushu University)</p>
   </div>
+ </div>
 
 <h3>Financial Chair</h3>
-<div class="row">
-  <div class="column1">
-    <img src="/assets/Makihara.jpeg" alt="Snow" style="height: 100px;width:100px;border-radius: 50%;">
+ <div class="container">
+  <div>
+    <img src="/assets/Makihara.jpeg" alt="Makihara">
+    <p>Erina Makihara <br> (Doshisha University)</p>
   </div>
-  <div class="column2">Erina Makihara (Doshisha University)</div>
-</div>
+ </div>
 
-<h3>Organization Chair</h3>
-<div class="row">
-  <div class="column1">
-    <img src="/assets/Wang.jpeg" alt="Snow" style="height: 100px;width:100px;border-radius: 50%;">
+ <h3>Organization Chair</h3>
+ <div class="container">
+  <div>
+    <img src="/assets/Wang.jpeg" alt="Wang">
+    <p>Dong Wang <br> (Kyushu University)</p>
   </div>
-  <div class="column2">Dong Wang (Kyushu University)</div>
-</div>
+ </div>
 
-
-<h3>Web Chair</h3>
-<div class="row">
-  <div class="column1">
-    <img src="/assets/Khine.jpg" alt="Snow" style="height: 100px;width:100px;border-radius: 50%;">
+ <h3>Web Chair</h3>
+ <div class="container">
+  <div>
+    <img src="/assets/Khine.jpg" alt="Khine">
+    <p>Khine Yin Mon <br> (Kyoto Institute of Technology)</p>
   </div>
-  <div class="column2">Khine Yin Mon (Kyoto Institute of Technology)</div>
-</div>
-
-<h3>Local Arrangement Chair</h3>
-<div class="row">
-  <div class="column1">
-    <img src="/assets/Ishimoto.jpeg" alt="Snow" style="height: 100px;width:100px;border-radius: 50%;">
+ </div>
+ 
+ <h3>Local Arrangement Chair</h3>
+ <div class="container">
+   <div>
+     <img src="/assets/Ishimoto.jpeg" alt="Ishimoto">
+     <p>Yuta Ishimoto <br> (Kyushu University)</p>
+   </div>
+   <div>
+    <img src="/assets/Nourry.jpeg" alt="Nourry">
+    <p>Olivier Nourry  <br> (Kyushu University)</p>
   </div>
-  <div class="column2">Yuta Ishimoto (Kyushu University)</div>
-</div>
-<div class="row">
-  <div class="column1">
-    <img src="/assets/Nourry.jpeg" alt="Snow" style="height: 100px;width:100px;border-radius: 50%;">
   </div>
-  <div class="column2">Olivier Nourry (Kyushu University)</div>
-</div>
-
-<h3>Steering Committee </h3>
-<div class="row">
-  <div class="column1">
-    <img src="/assets/yasuta-kamei.jpeg" alt="Snow" style="height: 100px;width:100px;border-radius: 50%;">
-  </div>
-  <div class="column2">Yasutaka Kamei (Kyushu University)</div>
-</div>
-<div class="row">
-  <div class="column1">
-    <img src="/assets/Ihara.jpeg" alt="Snow" style="height: 100px;width:100px;border-radius: 50%;">
-  </div>
-  <div class="column2">Akinori Ihara (Wakayama University)</div>
-</div>
+ 
+  <h3>Steering Committee</h3>
+  <div class="container">
+    <div>
+      <img src="/assets/yasuta-kamei.jpeg" alt="Kamei">
+      <p>Yasutaka Kamei <br>  (Kyushu University)</p>
+    </div>
+    <div>
+     <img src="/assets/Ihara.jpeg" alt="Ihara">
+     <p>Akinori Ihara  <br>  (Wakayama University)</p>
+   </div>
+   </div>
+ 
+ 
 
 
 
-</body>
-</html>
 
 
 

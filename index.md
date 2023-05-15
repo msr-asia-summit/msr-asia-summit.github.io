@@ -8,8 +8,9 @@ feature_image: "assets/wallpic.jpeg"
 Welcome to the website of the Mining Software Repositories Asia Summit 2023!
 ## Speakers
 <!-- CHANGE: to change speakers -->
+{% include speaker_list_front.html  %}
 
-{% include figure-circle.html image="assets/temporary-human-icon.jpeg" caption="To Appear" width="150" height="400" %}
+
 
 
 ## Call For Participants

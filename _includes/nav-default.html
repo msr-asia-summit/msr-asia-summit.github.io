@@ -12,7 +12,7 @@
 
           {% if item.collectionpage %}
             {% assign collectiondata = site.collections | where: "label", item.collectionpage | first %}
-            <a href="{{ url }}">{{ collectiondata.title }}</a>
+            <a href="{{ url }}">{{ title }}</a>
           {% else %}
             <a href="{{ url }}">{{ item.title }}</a>
           {% endif %}
