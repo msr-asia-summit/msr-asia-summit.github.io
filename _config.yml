@@ -96,7 +96,7 @@ lang: en-GB # Set the site language
 title: "MSR Asia Summit 2023" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "MSR Asia Summit 2023" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://msrasiasummit.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
