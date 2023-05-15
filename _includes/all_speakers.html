@@ -1,10 +1,25 @@
-<html>
-<body>
 <style>
-  a.blue-link {
-  color: blue;
-}
-</style>
+    a.blue-link {
+      color: blue;
+    }
+    
+    @media screen and (max-width: 600px) {
+      /* Adjust the layout and styling for small screens */
+      h3, h5 {
+        font-size: 16px;
+        text-align: center;
+      }
+      
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+      
+      div {
+        padding-bottom: 6px;
+      }
+    }
+  </style>
 <h3>The conference will feature plenary addresses by the following great speakers:</h3><br>
 <div style="padding-bottom: 12px;">
   <h5>Title:  Refactoring Detection and Impact Analysis: Promises, Pitfalls, and Opportunities</h5>
@@ -37,7 +52,7 @@
 </div>
 
 <div style="padding-bottom: 12px;">
-  <h5>Title:  Research findings of my team at Microsoft</h5>
+  <h5>Title:  Data-driven Software Testing</h5>
 </div>
 <div>
   <div>
@@ -46,8 +61,6 @@
   <div style="text-align: justify;"><a href="https://tufanomichele.com/" class="blue-link">Michele Tufano</a> is a Senior Research Scientist at Microsoft, working in the Data & AI group. His research focuses on using Deep Learning for Software Engineering tasks, including Software Evolution and Maintenance, Mining Software Repositories, and Software Testing. Michele obtained his Ph.D. in Computer Science from The College of William and Mary in May 2019. Currently, he is part of the Data & AI team in Visual Studio, where he is training Transformer models to automate various developers' tasks. </div>
 </div>
 
-</body>
-</html>
 
 
 

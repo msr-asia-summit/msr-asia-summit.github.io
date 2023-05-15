@@ -1,7 +1,8 @@
 <style>
   .container {
-   display: flex;
-   justify-content: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
  }
  
  div {
@@ -17,6 +18,8 @@
  
  p {
    margin: 0;
+   width: 300px;
+   height: auto;
  }
  a.blue-link {
    color: blue;
@@ -24,6 +27,11 @@
 .image-border {
   border: 1px solid gray;
 }
+@media screen and (max-width: 600px) {
+    div {
+      flex-basis: 100%;
+      max-width: 100%;
+    }
  </style>
  
 <h3>General Co-chairs</h3>

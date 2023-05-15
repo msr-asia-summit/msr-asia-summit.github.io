@@ -34,6 +34,7 @@
   a.blue-link {
   color: blue;
   }
+  
   /* Responsive layout - makes the two columns stack on top of each other */
   @media screen and (max-width: 768px) {
     .column1, .column2 {
@@ -42,14 +43,18 @@
     }
   }
   
-  /* Responsive layout - adjusts margin for smaller screens */
+  /* Responsive layout - adjusts margin and padding for smaller screens */
   @media screen and (max-width: 576px) {
     .column1, .column2 {
       margin: 0;
       padding: 5%;
     }
+    .img1 {
+      max-width: 100%;
+      margin: 10px 0;
+    }
   }
-  </style>
+</style>
   
   <div class="row">
     <div class="column1">
