@@ -16,8 +16,9 @@ Requirements for the second phase:
 
 Registration fee
 - The first phase: 0 JPY
-- The second phase: TBD
+- The second phase: around 30,000 JPY, including a room for two nights, onsen, breakfast, and dinner. 
 
+The first phase is free. But the second phase needs around 30,000 JPY for the participation fee, including a room for two nights, onsen, breakfast, and dinner (if you want the organizers to arrange the hotels). If you prefer to have a private room, please arrange accommodation on your own.
 
 Registration form:
 - https://forms.gle/2NqADF6U9bnkB8U1A
