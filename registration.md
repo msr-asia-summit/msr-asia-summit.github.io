@@ -34,7 +34,9 @@ We are going to provide the second phase participants with the accommodation for
 Note that the first day (23th July) will be held in Sapporo, and the rest of the days will be held in Jozankei. So, please carefully check the address of the hotels. You also need to prepare the flight ticket yourselves.  
 
 ### <font color="MediumSeaGreen">Registration form</font>
-If we have more participants than the capacity, the form will be closed. Please register earlier. 
-Also, the registration for the second phase will be closed by **13th July**. 
+You can register here:<br>
 [https://forms.gle/2NqADF6U9bnkB8U1A](https://forms.gle/2NqADF6U9bnkB8U1A){:target="_blank"}
+
+* If we have more participants than the capacity, the form will be closed. Please register earlier. 
+Also, the registration for the second phase will be closed by **13th July**. 
 
