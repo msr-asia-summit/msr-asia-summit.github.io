@@ -7,16 +7,18 @@ excerpt: "MSR Asia Summit 2023 Program"
 ---
 <!-- <small>Talk 20 mins, QA 5 mins.</small> -->
 
-## Overview 
+### <font color="MediumSeaGreen">Overview</font>
 
 {% include table-program.html %}
 
-## First stage@Hokkaido Jichiro Kaikan (July 23)
+<br>
+### <font color="MediumSeaGreen">First stage@Hokkaido Jichiro Kaikan (July 23)</font>
 
 - The room will be open from 9:00.
 
 {% include table-program-first-stage.html %}
 
-## Second stage@Jozankei View Hotel (July 24-26)
+<br>
+### <font color="MediumSeaGreen">Second stage@Jozankei View Hotel (July 24-26)</font>
 
 TBD
