@@ -7,15 +7,15 @@ excerpt: "MSR Asia Summit 2023 Program"
 ---
 <!-- <small>Talk 20 mins, QA 5 mins.</small> -->
 
-## Overview 
+## <font color="MediumSeaGreen">Overview</font> 
 
 {% include table-program.html %}
 
 <br>
-### First stage@Hokkaido Jichiro Kaikan
+### <font color="MediumSeaGreen">First stage@Hokkaido Jichiro Kaikan</font>
 
 {% include table-program-first-stage.html %}
 
 <br>
-### Second stage@Jozankei View Hotel
+### <font color="MediumSeaGreen">Second stage@Jozankei View Hotel</font>
 {% include table-program-second-stage.html %}
