@@ -8,7 +8,7 @@ excerpt: "MSR Asia Summit 2023 Registration"
 ---
 
 ### <font color="MediumSeaGreen">Requirements for the first phase</font>
-<b>All software engieering researchers including students can join the first phase!!</b> 
+<b>All software engineering researchers and students can join the first phase!!</b>  
 
 ### <font color="MediumSeaGreen">Requirements for the second phase</font>
 The main aim of the second phase is to encourage young researchers/students to develop a new research network and to provide them with opportunities for research collaborations. Hence, only the participants satisfying the following requirements:<br>
