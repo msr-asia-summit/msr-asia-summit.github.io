@@ -37,6 +37,6 @@ Note that the first day (23th July) will be held in Sapporo, and the rest of the
 You can register here:<br>
 [https://forms.gle/2NqADF6U9bnkB8U1A](https://forms.gle/2NqADF6U9bnkB8U1A){:target="_blank"}
 
-* If we have more participants than the capacity, the form will be closed. Please register earlier. 
+* If we have more participants than the capacity, the form will be closed. Please register earlier as much as possible. 
 Also, the registration for the second phase will be closed by **13th July**. 
 
