@@ -8,12 +8,12 @@ excerpt: "MSR Asia Summit 2023 Registration"
 ---
 
 ### <font color="MediumSeaGreen">Requirements for the first phase</font>
-<b>All software engieering researchers including students can join the first phase!!</b> 
+<b>All software engineering researchers and students can join the first phase!!</b>  
 
 ### <font color="MediumSeaGreen">Requirements for the second phase</font>
-Unfortunately, the main aim of the second phase is for young researchers/students to make a new network and encourage them to start a new collaborative research project. Hence, we will ask for some requirements.
-- Doctoral program student or Master program student who plans to go to Doctoral program or researchers who have obtained a Ph.D. within 10 years
-- Main research area is MSR
+The main aim of the second phase is to encourage young researchers/students to develop a new research network and to provide them with opportunities for research collaborations. Hence, only the participants satisfying the following requirements:<br>
+<b>1. Young Researchers:</b> Doctoral program students, Master program students who plan to attend a Doctoral program, or researchers who are less than 10 years after Ph.D. acquisition.<br>
+<b>2. Working on MSR studies</b>
 
 
 ### <font color="MediumSeaGreen">Registration fee (Tentative)</font>
@@ -29,7 +29,7 @@ NOTE: For the second phase, if you prefer to staying a private room, please choo
 <b>For the first stage at Sapporo central, (i.e., invited talks),</b> you need to arrange accommodation by yourself (even the participants of the second phase). 
 
 <b>For the second phase at Jozankei (i.e., Researchathon),</b> 
-We are going to provide the second phase participants with the accommodation for 24th and 25th's night (If you are willing to stay in a shared room). If you prefer to staying in a private room (i.e., if you don't ask us to arrange the hotel), please book Jozankei view hotel or any hotels around by yourself. 
+We are going to provide the second phase participants with the accommodation for 24th and 25th's nights (if you are willing to stay in a shared room). If you prefer to staying in a private room (i.e., if you don't ask us to arrange the hotel), please book Jozankei view hotel or any hotels around by yourself. 
 
 Note that the first day (23th July) will be held in Sapporo, and the rest of the days will be held in Jozankei. So, please carefully check the address of the hotels. You also need to prepare the flight ticket yourselves.  
 
@@ -37,6 +37,6 @@ Note that the first day (23th July) will be held in Sapporo, and the rest of the
 You can register here:<br>
 [https://forms.gle/2NqADF6U9bnkB8U1A](https://forms.gle/2NqADF6U9bnkB8U1A){:target="_blank"}
 
-* If we have more participants than the capacity, the form will be closed. Please register earlier. 
+* If we have more participants than the capacity, the form will be closed. Please register earlier as much as possible. 
 Also, the registration for the second phase will be closed by **13th July**. 
 
