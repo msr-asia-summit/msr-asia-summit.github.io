@@ -14,7 +14,6 @@ excerpt: "MSR Asia Summit 2023 Program"
 <br>
 ## First stage@Hokkaido Jichiro Kaikan
 
-<b>23th July</b>
 {% include table-program-first-stage.html %}
 
 <br>
