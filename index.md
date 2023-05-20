@@ -6,24 +6,24 @@ feature_image: "assets/wallpic.jpeg"
 
 ---
 Welcome to the website of the Mining Software Repositories Asia Summit 2023!
-## Speakers
+## <font color="MediumSeaGreen">Speakers</font>
 <!-- CHANGE: to change speakers -->
 {% include speaker_list_front.html  %}
 
 
 
 
-## Call For Participants
+## <font color="MediumSeaGreen">Call For Participants</font>
 
 {% include call_for_participants.html  %}
 
 
 
-## Program Schedule
+## <font color="MediumSeaGreen">Program Schedule</font>
 
 {% include program_schedule.html  %}
 
-## Organizers
+## <font color="MediumSeaGreen">Organizers</font>
 
 {% include organizers.html %}
 
