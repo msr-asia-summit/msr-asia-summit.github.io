@@ -12,10 +12,10 @@ excerpt: "MSR Asia Summit 2023 Program"
 {% include table-program.html %}
 
 <br>
-## First stage@Hokkaido Jichiro Kaikan
+### First stage@Hokkaido Jichiro Kaikan
 
 {% include table-program-first-stage.html %}
 
 <br>
-## Second stage@Jozankei View Hotel
+### Second stage@Jozankei View Hotel
 {% include table-program-second-stage.html %}
