@@ -11,11 +11,13 @@ excerpt: "MSR Asia Summit 2023 Program"
 
 {% include table-program.html %}
 
+<br>
 ## First stage@Hokkaido Jichiro Kaikan
 
 <b>23th July</b>
 - The room will be open from 9:00.
 {% include table-program-first-stage.html %}
+
 
 ## Second stage@Jozankei View Hotel
 {% include table-program-second-stage.html %}
