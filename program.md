@@ -13,10 +13,13 @@ excerpt: "MSR Asia Summit 2023 Program"
 {% include table-program.html %}
 
 <br>
-### <font color="MediumSeaGreen">First stage@Hokkaido Jichiro Kaikan</font>
+### <font color="MediumSeaGreen">First stage@Hokkaido Jichiro Kaikan (Third floor)</font>
 
 
 {% include table-program-first-stage.html %}
+
+<br>
+{% include poster-presenter.html %}
 
 <br>
 ### <font color="MediumSeaGreen">Second stage@Jozankei View Hotel</font>
