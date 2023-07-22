@@ -19,5 +19,8 @@ excerpt: "MSR Asia Summit 2023 Program"
 {% include table-program-first-stage.html %}
 
 <br>
+{% include poster-presenter.html %}
+
+<br>
 ### <font color="MediumSeaGreen">Second stage@Jozankei View Hotel</font>
 {% include table-program-second-stage.html %}
