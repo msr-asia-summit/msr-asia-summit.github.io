@@ -16,10 +16,10 @@ The main aim of the second phase is to encourage young researchers/students to d
 <b>2. Working on MSR studies</b>
 
 
-### <font color="MediumSeaGreen">Registration fee (Tentative)</font>
+### <font color="MediumSeaGreen">Registration fee</font>
 - <b>The first phase:</b> 0 JPY
 - <b>The second phase:</b> You can choose either of these options: 
-  - With accomodation: 30,000 JPY (including a shared room for two nights, breakfast, dinner, coffee, and snacks.)
+  - With accomodation: 27,000 JPY (including a shared room for two nights, breakfast, dinner, coffee, and snacks. Accomodation fee is 11,000 JPY per night.)
   - Without accomodation: 5,000 JPY (including only coffee and snacks)
 
 NOTE: For the second phase, if you prefer to staying a private room, please choose the option "Without accomodation" and arrange accommodation on your own as well as breakfast and dinner. And please make sure to <b>arrange the same accommodation</b>. We plan to hold a night session. So, if you book another hotel, it might be difficult to attend such sessions. Please contact us directly if you have any reasons or want to stay at another hotel. 
