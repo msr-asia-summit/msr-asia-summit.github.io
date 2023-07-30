@@ -1,69 +1,56 @@
-
 <style>
-@media screen and (max-width: 768px) {
   .container {
+    display: flex;
+    justify-content: center;
     flex-wrap: wrap;
-  }
-  
-  div {
-    flex: 0 0 50%;
-  }
+ }
+ 
+ div {
+   text-align: center;
+ }
+ 
+ img {
+   width: 200px;
+   height: 200px;
+   margin: 10px;
+   border: 1px solid gray;
+ }
+ 
+ p {
+   margin: 0;
+   width: 300px;
+   height: auto;
+ }
+ a.blue-link {
+   color: blue;
+ }
+.image-border {
+  border: 1px solid gray;
 }
-
-@media screen and (max-width: 480px) {
-  div {
-    flex: 0 0 100%;
-  }
-}
-
-.container {
-  display: flex;
-  justify-content: center;
-}
-
-div {
-  text-align: center;
-}
-
-img {
-  width: 200px;
-  height: 200px;
-  margin: 10px;
-}
-
-p {
-  margin: 0;
-}
-a.blue-link {
-  color: MediumSeaGreen;
-}
-
-</style>
-
-
+@media screen and (max-width: 600px) {
+    div {
+      flex-basis: 100%;
+      max-width: 100%;
+    }
+ </style>
+ 
+<h3><font color="MediumSeaGreen">Co-hosted</font></h3>
 <div class="container">
   <div>
-    <img src="/assets/temporary-human-icon.jpeg" alt="JSPS SIGSE">
-    <p><b>Co-hosted by JSPS SIGSE</b></p>
+    <img src="/assets/temporary-human-icon.jpeg" alt="SIGSE">
+    <p><b>JSPS SIGSE</b></p>
   </div>
+ </div>
 
-  <br>
-
+<h3><font color="MediumSeaGreen">Financial Support</font></h3>
+ <div class="container">
   <div>
-    <img src="/assets/temporary-human-icon.jpeg" alt="Tateishi">
-    <p><b>Financial Support by Tateisi Science and Technology Foundation</b></p>
+    <img src="/assets/temporary-human-icon.jpeg" alt="tateishi">
+    <p><b>Tateisi Science and Technology Foundation</b> </p>
   </div>
-
   <div>
-    <img src="/assets/temporary-human-icon.jpeg" alt="NAIST">
-    <p><b>inancial Support by NAIST</b></p>
+    <img src="/assets/temporary-human-icon.jpeg" alt="naist">
+    <p><b>NAIST</b> </p>
   </div>
-</div>
-
-
-
-
-
-
-
+ </div>
 
