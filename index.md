@@ -28,6 +28,9 @@ Welcome to the website of the Mining Software Repositories Asia Summit 2023!
 {% include organizers.html %}
 
 
+## <font color="MediumSeaGreen">Supports</font>
+
+{% include supports.html %}
 
 
 <!-- 
